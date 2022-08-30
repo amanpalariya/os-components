@@ -1,0 +1,15 @@
+[submodule "hdd-scheduling"]
+	path = hdd-scheduling
+	url = git@github.com:amanpalariya/hdd-scheduling.git
+[submodule "dynamic-memory-allocation"]
+	path = dynamic-memory-allocation
+	url = git@github.com:amanpalariya/dynamic-memory-allocation.git
+[submodule "deadlock-detection"]
+	path = deadlock-detection
+	url = git@github.com:amanpalariya/deadlock-detection.git
+[submodule "fifo-dispatcher"]
+	path = fifo-dispatcher
+	url = git@github.com:amanpalariya/fifo-dispatcher.git
+[submodule "gmail-file-system"]
+	path = gmail-file-system
+	url = git@github.com:amanpalariya/gmail-file-system.git
